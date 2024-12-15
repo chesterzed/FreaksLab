@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\FreakLab\\MVC_FreaksLabMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B57F425E-93C9-4D95-985C-1649D5A2A202}|MVC_FreaksLabMarket\\MVC_FreaksLabMarket.csproj|e:\\projects\\freaklab\\mvc_freakslabmarket\\mvc_freakslabmarket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57F425E-93C9-4D95-985C-1649D5A2A202}|MVC_FreaksLabMarket\\MVC_FreaksLabMarket.csproj|solutionrelative:mvc_freakslabmarket\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57F425E-93C9-4D95-985C-1649D5A2A202}|MVC_FreaksLabMarket\\MVC_FreaksLabMarket.csproj|e:\\projects\\freaklab\\mvc_freakslabmarket\\mvc_freakslabmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57F425E-93C9-4D95-985C-1649D5A2A202}|MVC_FreaksLabMarket\\MVC_FreaksLabMarket.csproj|solutionrelative:mvc_freakslabmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\projects\\FreakLab\\MVC_FreaksLabMarket\\MVC_FreaksLabMarket\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_FreaksLabMarket\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\projects\\FreakLab\\MVC_FreaksLabMarket\\MVC_FreaksLabMarket\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_FreaksLabMarket\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T00:50:34.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\FreakLab\\MVC_FreaksLabMarket\\MVC_FreaksLabMarket\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_FreaksLabMarket\\Program.cs",
+              "ToolTip": "E:\\projects\\FreakLab\\MVC_FreaksLabMarket\\MVC_FreaksLabMarket\\Program.cs",
+              "RelativeToolTip": "MVC_FreaksLabMarket\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T00:49:10.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
